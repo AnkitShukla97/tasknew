@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 90" width="350" height="90">
+	<defs>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="63.606" y1="95.447" x2="12.683" y2="-18.927">
+			<stop offset="0" stop-color="#105259"  />
+			<stop offset="1" stop-color="#0c4e55"  />
+		</linearGradient>
+		<linearGradient id="grd2" gradientUnits="userSpaceOnUse"  x1="55.119" y1="81.008" x2="22.298" y2="7.29">
+			<stop offset="0" stop-color="#105259"  />
+			<stop offset="1" stop-color="#0c4e55"  />
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #02555e;stroke: #eaeaea;stroke-width: 2 } 
+		.txt1 { font-size: 45px;fill: #02555e;font-weight: bold;font-family: "Nexa Bold" } 
+		.shp2 { fill: url(#grd1) } 
+		.shp3 { fill: #f97e76 } 
+		.shp4 { fill: url(#grd2) } 
+		.txt5 { font-size: 13px;line-height: 30px;fill: #02555e;font-family: "Century Gothic" } 
+		.txt6 { font-size: 13px;line-height: 30px;fill: #f3776e;font-family: "Century Gothic" } 
+	</style>
+	<g id="Group 8">
+		<g id="Group 2">
+			<g id="logo">
+				<path id="Shape 1 copy" class="shp0" d="M57 71C57 71 36.71 85.45 21 90C21 90 37.62 75.08 38 75C48.72 76.38 57 71 57 71Z" />
+				<text id="Marketingaxle" style="transform: matrix(1,0,0,1,80.902,52.872)" >
+					<tspan x="0" y="0" class="txt1" dx="0 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2" >Marketingaxle</tspan>
+				</text>
+				<path id="Ellipse 1" fill-rule="evenodd" class="shp2" d="M20.37 71.98C1.74 62.17 -5.4 39.12 4.42 20.49C9.73 10.41 18.93 3.69 29.2 1.21C15.9 7.1 6.81 20.47 6.06 36C5.12 55.73 17.94 73.42 44.53 73C49.76 72.75 54.59 71.8 58.94 70.22C47.73 77.49 33.03 78.65 20.37 71.98Z" />
+				<path id="Ellipse 1 copy 2" fill-rule="evenodd" class="shp3" d="M29.64 6.36C46.26 -1.28 65.92 6.01 73.56 22.62C81.2 39.24 73.91 58.9 57.29 66.53C56.63 66.84 55.96 67.12 55.29 67.38C65.23 62.17 72 51.86 72 40C72 22.88 57.9 9 40.5 9C27.42 9 16.21 16.84 11.44 28.01C13.88 18.77 20.28 10.66 29.64 6.36Z" />
+				<path id="Shape 2" class="shp3" d="M11.01 32.74L20.2 52.43L32.69 38.53L40.15 46.24L59.29 21.19L55.47 20.75L39.79 44L32.59 37.02L20.71 49.36L11.01 32.74Z" />
+				<path id="Shape 4" class="shp3" d="M60.82 15.21L49.38 22.58L55.44 21.17L57.91 22.82L59.1 28.02L60.82 15.21Z" />
+				<path id="Shape 7" class="shp4" d="M10.22 37.58L20.19 54.84L32.88 40.66L40.12 48.09L57.75 26.33L60.05 31.58L61.9 19.58C61.69 19.74 79.91 50.73 50 67C8.69 77.43 10.22 37.58 10.22 37.58Z" />
+				<text id="a digital marketing" style="transform: matrix(1,0,0,1,130.626,64.689)" >
+					<tspan x="0" y="0" class="txt5">a digital marketing</tspan>
+				</text>
+				<text id="agency" style="transform: matrix(1,0,0,1,279.626,64.689)" >
+					<tspan x="0" y="0" class="txt6">agency</tspan>
+				</text>
+			</g>
+		</g>
+	</g>
+</svg>
